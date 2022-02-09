@@ -603,7 +603,7 @@
 
     <properties>
         <!-- Plugin versions -->
-        <jacoco.version>0.7.9</jacoco.version>
+        <jacoco.version>0.8.7</jacoco.version>
         <!-- TestGrid version-->
         <test.grid.version>1.0.8-SNAPSHOT</test.grid.version>
         <!-- Test Grid core dependencies -->
