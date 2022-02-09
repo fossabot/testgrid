@@ -613,7 +613,7 @@
         <apache.http.version>4.5.3</apache.http.version>
         <org.selenium.java.version>2.52.0</org.selenium.java.version>
         <org.selenium.html.driver.version>2.52.0</org.selenium.html.driver.version>
-        <testng.version>6.11</testng.version>
+        <testng.version>7.5</testng.version>
         <maven.surefire.version>2.22.0</maven.surefire.version>
         <!-- Apache commons dependencies-->
         <apache.commons.lang.version>3.4</apache.commons.lang.version>
