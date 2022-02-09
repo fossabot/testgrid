@@ -620,7 +620,7 @@
         <wso2.maven.compiler.source>1.8</wso2.maven.compiler.source>
         <wso2.maven.compiler.target>1.8</wso2.maven.compiler.target>
         <!-- Reporting dependencies -->
-        <version.mustache.java>0.9.5</version.mustache.java>
+        <version.mustache.java>0.9.10</version.mustache.java>
         <!-- Test dependencies -->
         <mockito.all.version>1.10.19</mockito.all.version>
         <powermock.version>1.7.4</powermock.version>
