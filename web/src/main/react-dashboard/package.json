@@ -22,7 +22,7 @@
     "react-scripts": "1.0.17",
     "react-tooltip": "^3.10.0",
     "react-websocket": "^2.0.1",
-    "reactstrap": "^5.0.0",
+    "reactstrap": "^9.0.1",
     "redux": "^3.7.2",
     "redux-persist": "^5.10.0"
   },
