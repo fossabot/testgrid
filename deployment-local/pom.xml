@@ -30,7 +30,7 @@
         <dependency>
             <groupId>com.h2database</groupId>
             <artifactId>h2</artifactId>
-            <version>1.4.199</version>
+            <version>2.0.206</version>
             <scope>runtime</scope>
         </dependency>
 
@@ -130,9 +130,9 @@
                   <phase>process-sources</phase>
                   <configuration>
                   <tasks>
-                    <unzip src="../distribution/target/WSO2-TestGrid.zip" dest="testgrid/testgrid-home/testgrid-dist" />
-                    <unzip src="../web/target/testgrid#dashboard##v1.0.8-SNAPSHOT.war" dest="tomcat/apache-tomcat-8.5.43/webapps/ROOT" />
-                    <unzip src="../deployment-tinkerer/target/deployment-tinkerer#v0.9.war" dest="tomcat/apache-tomcat-8.5.43/webapps/deployment-tinkerer#v0.9" />
+                    <unzip src="../distribution/target/WSO2-TestGrid.zip" dest="testgrid/testgrid-home/testgrid-dist"/>
+                    <unzip src="../web/target/testgrid#dashboard##v1.0.8-SNAPSHOT.war" dest="tomcat/apache-tomcat-8.5.43/webapps/ROOT"/>
+                    <unzip src="../deployment-tinkerer/target/deployment-tinkerer#v0.9.war" dest="tomcat/apache-tomcat-8.5.43/webapps/deployment-tinkerer#v0.9"/>
                  </tasks>
                  </configuration>
                  <goals>
