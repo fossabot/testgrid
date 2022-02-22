@@ -57,6 +57,7 @@ NOTE: For Ubuntu/Debian to install NodeJS, issue the following commands
 ### Overall system components are as follows:
 
 ![testgrid-system-architecture](docs/testgrid-architecture.png)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FVimukthiPerera%2Ftestgrid.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FVimukthiPerera%2Ftestgrid?ref=badge_shield)
 
 * Testgrid uses Jenkins as the runtime engine due to its CI capabilities that
 closely matches with some of the key requirements for testgrid's
@@ -97,3 +98,7 @@ execution flow:
 3. Execute test scripts (JMeter / TestNG (via maven))
 
 ![testgrid-system-architecture](docs/testgrid-testplan-executor-workflow.png)
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FVimukthiPerera%2Ftestgrid.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FVimukthiPerera%2Ftestgrid?ref=badge_large)
